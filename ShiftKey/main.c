@@ -33,7 +33,8 @@ int main(int argc, const char * argv[]) {
         printf("The Shift Key encryption is %s with key %i \n",encrpytion,key);
         // printf("Enter key to obtain original message \n");
         
-        printf("Please enter the CORRECT key for decryption. Wrong key would result in gibberish. \n")
+        printf("Please enter the CORRECT key for decryption. Wrong key would result in gibberish. \n");
+        
   
     }
     
